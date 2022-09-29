@@ -5,9 +5,8 @@ My personal website is davinawooley.com
 <br><br><br>
 <img align = "left" width = "40%" src = "https://github-readme-stats.vercel.app/api?username=davinawooley&theme=algolia&show_icons=true)]"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooleya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+<img width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact"/>
 
 
 
