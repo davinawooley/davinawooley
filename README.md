@@ -4,7 +4,7 @@
 My personal website is davinawooley.com
 
 #My Links: <br>
-<hr>
+
 <b>Portfolio Site:</b> davinawooley.com <br>
 <b>Art Profile:</b>  behance.com/davinawooley <br>
 <b>LinkedIn:</b>  linkedin.com/in/davinawooley/ <br>
