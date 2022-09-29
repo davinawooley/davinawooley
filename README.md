@@ -6,7 +6,7 @@ My personal website is davinawooley.com
 <img align = "left" width = "40%" src = "https://github-readme-stats.vercel.app/api?username=davinawooley&theme=algolia&show_icons=true)]"/>
 
 
-<img width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact"/>
+<img width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact&theme=algolia"/>
 
 
 
