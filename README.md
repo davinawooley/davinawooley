@@ -3,7 +3,7 @@
 - 📫 Feel free to email me at davinawooley@gmail.com!
 My personal website is davinawooley.com
 
-# Connect: <br>
+# ✨ Connect: <br>
 
 💾 <b>Portfolio Site:</b> davinawooley.com <br>
 🖍️ <b>Art Profile:</b>  behance.com/davinawooley <br>
