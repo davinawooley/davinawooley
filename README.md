@@ -3,7 +3,7 @@
 - 📫 Feel free to email me at davinawooley@gmail.com!
 My personal website is davinawooley.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davinawooley)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davinawooley&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # ✨ Connect: <br>
 
