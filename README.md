@@ -13,13 +13,13 @@ Art, Business, and Technology are my three greatest passions, and I am intereste
 
 <h2> ✨ Connect </h2>
         
-<a href = "https://www.behance.com/davinawooley"> <img height = "45" align = "left" src = "behance.png" />
+<a href = "https://www.behance.com/davinawooley" target="_blank"> <img height = "45" align = "left" src = "behance.png" />
 </a>
 
-<a href = "https://www.davinawooley.com"> <img height = "35" align = "left" src = "LogoGrey.png" />
+<a href = "https://www.davinawooley.com" target="_blank"> <img height = "35" align = "left" src = "LogoGrey.png" />
 </a>
   
-<a href = "https://www.linkedin.com/in/davinawooley/"> <img height = "45" align = "left" src = "li.png" />
+<a href = "https://www.linkedin.com/in/davinawooley/" target="_blank"> <img height = "45" align = "left" src = "li.png" />
 </a>
 <br><br><br>
 
