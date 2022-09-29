@@ -3,10 +3,10 @@
 - 📫 Feel free to email me at davinawooley@gmail.com!
 My personal website is davinawooley.com
 <br><br><br>
-<img align = "left" width = "40%" src = "https://github-readme-stats.vercel.app/api?username=davinawooley&theme=algolia&show_icons=true)]"/>
+<img align =  width = "80%" src = "https://github-readme-stats.vercel.app/api?username=davinawooley&theme=algolia&show_icons=true)]"/>
 
 
-<img width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact&theme=algolia"/>
+<img width = "80%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact&theme=algolia"/>
 
 
 
