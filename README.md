@@ -11,20 +11,16 @@ Art, Business, and Technology are my three greatest passions, and I am intereste
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,java,js,py,react,mysql&theme=light)](https://skills.thijs.gg)
 
-# ✨ Connect <br>
-<a href = "mailto:name@email.com"> <img width = "10%" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact&theme=algolia" />
+<h2> ✨ Connect </h2>
+        
+<a href = "behance.com/davinawooley"> <img height = "45" align = "left" src = "behance.png" />
 </a>
-      
-<a href = "davinawooley.com"> <img width = "10%" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact&theme=algolia" />
-</a>
-  
-<a href = "behance.com/davinawooley"> <img width = "10%" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact&theme=algolia" />
+
+<a href = "davinawooley.com"> <img height = "35" align = "left" src = "LogoGrey.png" />
 </a>
   
-<a href = "linkedin.com/in/davinawooley/"> <img width = "10%" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact&theme=algolia" />
+<a href = "linkedin.com/in/davinawooley/"> <img height = "45" align = "left" src = "li.png" />
 </a>
-  ![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
-    ![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
-      ![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
 <br><br><br>
+
 <hr>
