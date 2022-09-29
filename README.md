@@ -10,6 +10,6 @@ My personal website is davinawooley.com
 
 # ✨ Connect <br>
 
-- <b>Portfolio Site:</b> davinawooley.com <br>
+- <b>Portfolio Site:</b> <a href = "davinawooley.com">davinawooley.com </a><br>
 - <b>Art Profile:</b>  behance.com/davinawooley <br>
 - <b>LinkedIn:</b>  linkedin.com/in/davinawooley/ <br>
