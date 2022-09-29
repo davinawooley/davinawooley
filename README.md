@@ -1,4 +1,4 @@
-# ✌🏾 Hi, I’m Davina! Welcome to my GitHub!
+# ✌🏾 Hi, I’m Davina!
 
 I am a digital artist and technologist with a passion for business problem-solving. 
 <br><br>
