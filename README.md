@@ -8,7 +8,6 @@ I am a digital artist and technologist with a passion for business problem-solvi
 <br><br>
 Art, Business, and Technology are my three greatest passions, and I am interested in understanding stakeholder needs to develop effective, technical, and artistic user-centered solutions. 
 
-
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,java,js,py,react,mysql&theme=light)](https://skills.thijs.gg)
 
 <h2> ✨ Connect </h2>
