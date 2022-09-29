@@ -2,9 +2,9 @@
 - 👀 I’m interested in developing tech that assists and brings ease to users. 
 - 📫 Feel free to email me at davinawooley@gmail.com!
 My personal website is davinawooley.com
-
+<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davinawooley&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
 # ✨ Connect: <br>
 
 - <b>Portfolio Site:</b> davinawooley.com <br>
