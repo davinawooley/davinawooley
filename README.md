@@ -11,5 +11,5 @@ My personal website is davinawooley.com
 # ✨ Connect <br>
 
 - <b>Portfolio Site:</b> <a href = "davinawooley.com">davinawooley.com </a><br>
-- <b>Art Profile:</b> <a href = "behance.com/davinawooley"> behance.com/davinawooley <br>
-- <b>LinkedIn:</b>  <a href = "linkedin.com/in/davinawooley/">linkedin.com/in/davinawooley/ <br>
+- <b>Art Profile:</b> <a href = "behance.com/davinawooley"> behance.com/davinawooley</a> <br>
+- <b>LinkedIn:</b>  <a href = "linkedin.com/in/davinawooley/">linkedin.com/in/davinawooley/ </a><br>
