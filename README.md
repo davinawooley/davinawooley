@@ -6,10 +6,10 @@ My personal website is davinawooley.com
 
 <img width = "50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact&theme=algolia" />
 
-<br>
+
 # ✌🏾 Hi, I’m Davina!
 
-#✨ Connect: <br>
+# ✨ Connect: <br>
 
 - <b>Portfolio Site:</b> davinawooley.com <br>
 - <b>Art Profile:</b>  behance.com/davinawooley <br>
