@@ -1,5 +1,5 @@
 # ✌🏾 Hi, I’m Davina!
-- 👀 I’m interested in developing tech that assists and brings ease to users. 
+
 - 📫 Feel free to email me at davinawooley@gmail.com!
 My personal website is davinawooley.com
 <br><br><br>
@@ -9,7 +9,7 @@ My personal website is davinawooley.com
 <br>
 
 # ✨ Connect <br>
-
+- <b>Email:</b> <a href = "mailto:name@email.com">davinawooley@gmail</a><br>
 - <b>Portfolio Site:</b> <a href = "davinawooley.com">davinawooley.com </a><br>
 - <b>Art Profile:</b> <a href = "behance.com/davinawooley"> behance.com/davinawooley</a> <br>
 - <b>LinkedIn:</b>  <a href = "linkedin.com/in/davinawooley/">linkedin.com/in/davinawooley </a><br>
