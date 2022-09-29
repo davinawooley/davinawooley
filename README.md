@@ -4,7 +4,8 @@
 My personal website is davinawooley.com
 <br><br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davinawooley&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&hide=html, css)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
 # ✨ Connect: <br>
 
