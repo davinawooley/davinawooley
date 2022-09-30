@@ -1,7 +1,7 @@
 
 
 <h1 align="center" style="font-size:50px">✌🏾 Hi, I’m Davina!</h1>
-<hr>
+
 <img width = "50%" align = "left" src = "https://github-readme-stats.vercel.app/api?username=davinawooley&theme=algolia" />
 <img width = "50%" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact&theme=algolia" />
 
@@ -21,4 +21,4 @@ I am a digital artist and technologist with a passion for business problem-solvi
 <a href = "https://www.linkedin.com/in/davinawooley/" target="_blank"> <img height = "45" align = "left" src = "li.png" />
 </a>
 <br><br><br>
-<hr>
+
