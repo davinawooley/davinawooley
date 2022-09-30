@@ -1,11 +1,11 @@
 
 
-<h1 align="center" style="font-size:50px">✌🏾 Hi, I’m Davina!</h1>
+<h1 align="center" style="font-size:50px" vertical-align="middle"> ✌🏾 Hi, I’m Davina!</h1>
 
 <img width = "50%" align = "left" src = "https://github-readme-stats.vercel.app/api?username=davinawooley&theme=algolia" />
 <img width = "50%" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact&theme=algolia" />
 
-<h2> ✌🏾 About Me</h2>
+<h2> <img height = "45" src = "dewComp.PNG" display = "inline"/>  About Me</h2>
 I am a digital artist and technologist with a passion for business problem-solving.<br><br>I am interested in understanding stakeholder needs to develop effective, technical, and artistic user-centered solutions. 
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,js,py,react,mysql,html,css&theme=light)](https://skills.thijs.gg)
