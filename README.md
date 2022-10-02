@@ -11,15 +11,12 @@ I am a digital artist and technologist with a passion for business problem-solvi
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,js,py,react,mysql,html,css&theme=light)](https://skills.thijs.gg)
 
-<h2> ✨ Connect </h2>
-      
+<h2> ✨ Connect </h2>     
 <a href = "https://www.behance.com/davinawooley" target="_blank"> <img height = "45" align = "left" src = "behance.png" />
 </a>
-
 <a href = "https://www.davinawooley.com" target="_blank"> <img height = "35" align = "left" src = "LogoGrey.png" />
 </a>
-  
 <a href = "https://www.linkedin.com/in/davinawooley/" target="_blank"> <img height = "45" align = "left" src = "li.png" />
 </a>
 <br><br><br>
-<hr>
+
