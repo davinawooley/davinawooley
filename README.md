@@ -1,5 +1,3 @@
-
-<br>
 <h1 align="center" style="font-size:50px" vertical-align="middle"> ✌🏾 Hi, I’m Davina!</h1>
 <br>
 
