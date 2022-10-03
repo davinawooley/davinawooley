@@ -7,8 +7,8 @@
 <h2> <img height = "45" src = "dewComp.PNG" display = "inline-block"/> About Me</h2>
 I am a digital artist and technologist with a passion for business problem-solving.<br><br>I am interested in understanding stakeholder needs to develop effective, technical, and artistic user-centered solutions. 
 <img width = "45%" align = "inline" src = "https://skills.thijs.gg/icons?i=java,js,py,react,mysql,html,css&theme=light" />
-🔭 I’m currently working on my Portfolio Site and Euphonics
-🔭 I am a Product Owner and Product Analyst at NCR Corp GHQ.
+🔭 I’m currently working on my Portfolio Site and Euphonics<br>
+🔭 I am a Product Owner and Product Analyst at NCR Corp GHQ.<br>
 
 🌱 I’m currently improving my architecture skills.
 
