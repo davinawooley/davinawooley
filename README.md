@@ -16,7 +16,7 @@ I am a digital artist and technologist with a passion for business problem-solvi
 
 🌱 I’m currently improving my architecture skills.
 
-Areas of Expertise - Frontend Development, Graphic Design, Video Editing, SDLC, UI/UX, and Product Development
+Skills - Frontend, UI/UX, Data Analysis and Product Development
 
 <h2> ✨ Connect </h2>     
 <a href = "https://www.behance.com/davinawooley" target="_blank"> <img height = "45" align = "inline" src = "behance.png" />
