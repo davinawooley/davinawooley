@@ -15,8 +15,7 @@ I am a digital artist and technologist with a passion for business problem-solvi
 🔨 I’m currently working on my Portfolio Site and Euphonics<br>
 
 🌱 I’m currently improving my architecture skills.
-
-💼 Skills - Frontend, UI/UX, Analysis & Product Development
+<br> 💼 Skills - Frontend, UI/UX, Analysis & Product Development
 
   <h2>✨ Connect</h2>
 
