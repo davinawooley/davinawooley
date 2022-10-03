@@ -17,7 +17,7 @@ I am a digital artist and technologist with a passion for business problem-solvi
 🌱 I’m currently improving my architecture skills.
 
 Skills - Frontend, UI/UX, Data Analysis and Product Development
- <div align = "center">
+
   <h2>Connect</h2>
 
 <a href = "https://www.behance.com/davinawooley" target="_blank"> <img height = "40" align = "middle" src = "behance.png" />
@@ -26,6 +26,6 @@ Skills - Frontend, UI/UX, Data Analysis and Product Development
 </a>
 <a href = "https://www.linkedin.com/in/davinawooley/" target="_blank"> <img height = "40" align = "middle" src = "li.png" />
 </a>
-</div>
+
 
 <br><br><br>
