@@ -18,13 +18,14 @@ I am a digital artist and technologist with a passion for business problem-solvi
 <br> 💼 Skills - Frontend, UI/UX, Analysis & Product Development
 
   <h2>✨ Connect</h2>
-
+<div width = "100%" align = "center">
 <a href = "https://www.behance.com/davinawooley" target="_blank"> <img height = "40" align = "middle" src = "behance.png" />
 </a>
 <a href = "https://www.davinawooley.com" target="_blank"> <img height = "30" align = "middle" src = "LogoGrey.png" />
 </a>
 <a href = "https://www.linkedin.com/in/davinawooley/" target="_blank"> <img height = "40" align = "middle" src = "li.png" />
 </a>
+</div>
 
 
 <br><br><br>
