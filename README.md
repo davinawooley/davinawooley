@@ -13,11 +13,11 @@ I am a digital artist and technologist with a passion for business problem-solvi
   </div>
     <br>
     
-      class About{
+
         workingOn = "Portfolio Site and Euphonics";
         learning = "Systems Design";
         skills = "Frontend, UI/UX, Analysis & Product";
-      }
+      
 
 
 <div width = "100%" align = "center">
