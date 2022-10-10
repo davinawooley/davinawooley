@@ -13,8 +13,6 @@ I am a digital artist and technologist with a passion for business problem-solvi
   </div>
     <br>
     
-    import { ArtBusinessTech } from '@davinawooley';
-
       class About{
         workingOn    = "Portfolio Site and Euphonics";
         learning    = "Systems Design";
