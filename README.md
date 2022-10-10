@@ -15,16 +15,12 @@ I am a digital artist and technologist with a passion for business problem-solvi
     
     import { ArtBusinessTech } from '@davinawooley';
 
-      class Bio{
-        name     = "Davina";
-        title    = "Software Product Owner";
+      class About{
         workingOn    = "Portfolio Site and Euphonics";
         learning    = "Systems Design";
         skills = "Frontend, UI/UX, Analysis & Product";
       }
 
-
-<br> 💼 Skills - Frontend, UI/UX, Analysis & Product Development
 
 <div width = "100%" align = "center">
   <h2>Connect</h2>
