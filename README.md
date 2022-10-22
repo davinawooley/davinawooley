@@ -18,8 +18,6 @@ I am a digital artist and technologist with a passion for business problem-solvi
         
         Skills: Frontend, UI/UX, Analysis & Product
       
-
-
 <div width = "100%" align = "center">
   <h2>Connect</h2>
 
