@@ -11,8 +11,11 @@ I am a digital artist and technologist with a passion for business problem-solvi
 <img width = "45%" align = "inline" src = "https://skills.thijs.gg/icons?i=java,js,py,react,mysql,html,css&theme=light" />
     <br>
   </div>
+  
         Working On: Portfolio Site and Euphonics
+        
         Learning: Systems Design
+        
         Skills: Frontend, UI/UX, Analysis & Product
       
 
