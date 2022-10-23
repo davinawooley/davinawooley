@@ -13,12 +13,10 @@ I am a digital artist and technologist with a passion for business problem-solvi
   </div>
   
         Working On: Portfolio Site and Euphonics
-        
         Learning: Systems Design
-        
         Skills: Frontend, UI/UX, Analysis & Product
-<div width = "100%" align = "center">
-  <h2>Connect</h2>
+        
+<div width = "100%" align = "center"> <h2>Connect</h2>
 <a href = "https://www.behance.com/davinawooley" target="_blank"> <img height = "40" align = "middle" src = "behance.png" />
 </a>
 <a href = "https://www.davinawooley.com" target="_blank"> <img height = "30" align = "middle" src = "LogoGrey.png" />
