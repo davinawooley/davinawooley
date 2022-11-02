@@ -8,7 +8,7 @@
 I am a digital artist and technologist with a passion for business problem-solving.<br><br>I am interested in understanding stakeholder needs to develop effective, technical, and artistic user-centered solutions.
 <div>
   <br>
-<img width = "40%" align = "inline" src = "https://skills.thijs.gg/icons?i=java,js,mysql,html,css&theme=light" />
+<img width = "40%" align = "inline" src = "https://skills.thijs.gg/icons?i=java,js,react, mysql,html,css&theme=light" />
     <br><br>
   </div>
   
