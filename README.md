@@ -1,5 +1,5 @@
-<h2 align="center" style="font-size:50px" vertical-align="middle"> ✌🏾 Hi, I’m Davina!</h2>
-
+<h2 align="center" vertical-align="middle"> ✌🏾 Hi, I’m Davina!</h2>
+ <hr>
 
 <img width = "50%" align = "left" src = "https://github-readme-stats.vercel.app/api?username=davinawooley&theme=algolia" />
 <img width = "50%" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davinawooley&layout=compact&theme=algolia&hide=shell" />
