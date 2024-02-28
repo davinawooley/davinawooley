@@ -10,6 +10,7 @@ I am a digital artist and technologist with a passion for business problem-solvi
     <br>
     <img width = "45%" align = "inline" src = "https://skills.thijs.gg/icons?i=java,js,react,mysql,html,css&theme=light" />
     <br>
+    <hr>
   </div>
   
         Working On: Portfolio Site and Euphonics
@@ -17,6 +18,7 @@ I am a digital artist and technologist with a passion for business problem-solvi
         Skills: Frontend, UI/UX, Analysis & Product
         
 <div width = "100%" align = "center">
+   <hr>
   <h3>Connect</h3>
   <a href = "https://www.behance.com/davinawooley" target="_blank"> <img height = "40" align = "middle" src = "behance.png" /></a>
 <a href = "https://www.davinawooley.com" target="_blank"> <img height = "40" align = "middle" src = "LogoGrey.png" /></a>
