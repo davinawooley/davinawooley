@@ -7,8 +7,8 @@
 <h3> <img height = "45" src = "dewComp.PNG" display = "inline-block"/> About Me</h3>
 I am a digital artist and technologist with a passion for business problem-solving.<br><br>I am interested in understanding stakeholder needs to develop effective, technical, and artistic user-centered solutions.
   <div>
-    <br>
-    <img width = "45%" align = "inline" src = "https://skills.thijs.gg/icons?i=java,js,react,mysql,html,css&theme=light" />
+<!--     <br> -->
+<!--     <img width = "45%" align = "inline" src = "https://skills.thijs.gg/icons?i=java,js,react,mysql,html,css&theme=light" /> -->
     <br>
     <hr>
   </div>
