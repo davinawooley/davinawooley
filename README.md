@@ -9,7 +9,7 @@ I am a digital artist and technologist with a passion for business problem-solvi
   <div>
 <!--     <br> -->
 <!--     <img width = "45%" align = "inline" src = "https://skills.thijs.gg/icons?i=java,js,react,mysql,html,css&theme=light" /> -->
-    <br> <br>
+    <br>
     <hr>
   </div>
   
@@ -19,6 +19,7 @@ I am a digital artist and technologist with a passion for business problem-solvi
         
 <div width = "100%" align = "center">
    <hr>
+  <br>
   <br>
   <h3>Connect</h3>
   <a href = "https://www.behance.com/davinawooley" target="_blank"> <img height = "40" align = "middle" src = "behance.png" /></a>
