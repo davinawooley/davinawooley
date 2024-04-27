@@ -13,7 +13,7 @@ I am a digital artist and technologist with a passion for business problem-solvi
     <hr>
   
   </div>
-    <br>
+   
         Working On: Portfolio Site and Euphonics
         Learning: Systems Design
         Skills: Frontend, UI/UX, Analysis & Product
