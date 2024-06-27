@@ -14,8 +14,8 @@ I am a digital artist and technologist with a passion for business problem-solvi
   
   </div>
    
-        Working On: Portfolio Site and Euphonics
-        Learning: Systems Design
+        Working On: Generative Art and Three.js Projects
+        Learning: Systems Design and GSAP
         Skills: Frontend, UI/UX, Analysis & Product
         
 <div width = "100%" align = "center">
