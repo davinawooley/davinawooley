@@ -14,9 +14,9 @@ I am a digital artist and technologist with a passion for business problem-solvi
   
   </div>
    
-        Working On: Generative Art and Three.js Projects
-        Learning: Systems Design and GSAP
-        Skills: Frontend, UI/UX, Analysis & Product
+        Working On: Three.js Projects and Generative Art
+        Learning: GSAP and GLSL
+        Skills: Frontend, UI/UX, Digital Media and Analysis & Product
         
 <div width = "100%" align = "center">
    <hr>
