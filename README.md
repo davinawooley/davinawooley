@@ -19,10 +19,4 @@ I am a digital artist and technologist with a passion for business problem-solvi
         
 <div width = "100%" align = "center">
    <hr>
- 
-  <h3>Connect</h3>
-   <br>
-  <a href = "https://www.behance.com/davinawooley" target="_blank"> <img height = "35" align = "middle" src = "behance.png" /></a>
-<a href = "https://www.davinawooley.com" target="_blank"> <img height = "35" align = "middle" src = "LogoGrey.png" /></a>
-<a href = "https://www.linkedin.com/in/davinawooley/" target="_blank"> <img height = "35" align = "middle" src = "li.png" /></a>
 </div>
