@@ -1,4 +1,4 @@
-<h2 align="center" vertical-align="middle"> ✌🏾 Hi, I’m Davina!</h2>
+<h2 align="center" vertical-align="middle"> ✌🏾 Hi, I’m Dee!</h2>
  <hr>
 
 <img width = "50%" align = "left" src = "https://github-readme-stats.vercel.app/api?username=davinawooley&theme=algolia" />
