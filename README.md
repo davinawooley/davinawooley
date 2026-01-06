@@ -1,12 +1,7 @@
 <h2 align="center" vertical-align="middle"> ✌🏾 Hi, I’m Dee!</h2>
  <hr>
+      <img title="git.io/streak-stats" alt="Davina's Stats's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=davinawooley&theme=monokai-metallian&hide_border=true&short_numbers=true" display = "inline-block"/>
 
-
-<!-- <img width = "50%" align = "left" src = "https://github-readme-stats.vercel.app/api username=davinawooley)](https://github.com/anuraghazra/github-readme-stats)" /> -->
-<a href="https://github.com/davinawooley/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="git.io/streak-stats" alt="Davina's Stats's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=davinawooley&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
 <h3> <img height = "45" src = "dewComp.PNG" display = "inline-block"/> About Me</h3>
 I am a digital artist and technologist with a passion for business problem-solving.<br><br>I am interested in understanding stakeholder needs to develop effective, technical, and artistic user-centered solutions.
   <div>
