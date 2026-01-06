@@ -11,4 +11,4 @@ I am a digital artist and technologist with a passion for business problem-solvi
 
         Working On: Three.js Projects and Generative Art
         Learning: GSAP and GLSL
-        Skills: Frontend, UX/UI, Digital Media, Analysis & Product
+        Skills: Frontend, UX/UI, Digital Media, Analysis and Product
