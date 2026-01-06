@@ -1,10 +1,10 @@
 <h2 align="center" vertical-align="middle"> ✌🏾 Hi, I’m Dee!</h2>
  <hr>
-      <img title="git.io/streak-stats" alt="Davina's Stats's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=davinawooley&theme=monokai-metallian&hide_border=true&short_numbers=true" display = "inline-block"/>
+      <img title="git.io/streak-stats" alt="Davina's Stats's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=davinawooley&theme=monokai-metallian&hide_border=true&short_numbers=true" align = "left" />
 
-<h3> <img height = "45" src = "dewComp.PNG" display = "inline-block"/> About Me</h3>
+<h3> <img height = "35" src = "dewComp.PNG" display = "inline-block" /> About Me</h3>
 I am a digital artist and technologist with a passion for business problem-solving.<br><br>I am interested in understanding stakeholder needs to develop effective, technical, and artistic user-centered solutions.
-  <div>
+ <div>
 <!--     <br> -->
 <!--     <img width = "45%" align = "inline" src = "https://skills.thijs.gg/icons?i=java,js,react,mysql,html,css&theme=light" /> -->
     <hr>
