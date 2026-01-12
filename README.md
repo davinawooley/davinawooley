@@ -1,6 +1,6 @@
 <h2 align="center" vertical-align="middle"> ✌🏾 Hi, I’m Dee!</h2>
 <hr>
-<img title="git.io/streak-stats" alt="Davina's Stats's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=davinawooley&theme=catppuccin-mocha&hide_border=true&short_numbers=true" align = "left" />
+<img title="git.io/streak-stats" alt="Davina's Stats's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=davinawooley&theme=ayu-mirage&hide_border=true&short_numbers=true" align = "left" />
 
 <div>
 <h3> <img height = "35" src = "dewComp.PNG" display = "inline-block" /> About Me</h3> 
