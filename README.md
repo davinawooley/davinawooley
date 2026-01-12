@@ -2,7 +2,7 @@
 <hr>
 <img title="git.io/streak-stats" alt="Davina's Stats's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=davinawooley&theme=tokyonight&hide_border=true&short_numbers=true" align = "left" />
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=davinawooley&theme=apprentice&background=272B36)](https://git.io/streak-stats)
 <div>
 <h3> <img height = "35" src = "dewComp.PNG" display = "inline-block" /> About Me</h3> 
 I am a digital artist and technologist with a passion for business problem-solving.<br><br>I am interested in understanding stakeholder needs to develop effective, technical, and artistic user-centered solutions.
